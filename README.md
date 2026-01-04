@@ -15,9 +15,6 @@ Crucially, DeepDrift includes an **Explainable AI (XAI)** module that tells secu
 
 ## 📊 Dashboard & Results
 
-*(Place your `dashboard.png` image here)*
-![DeepDrift Dashboard](dashboard.png)
-
 ### Key Metrics (Synthetic Test)
 | Metric | Score | Significance |
 | :--- | :--- | :--- |
