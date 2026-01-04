@@ -53,6 +53,6 @@ Crucially, DeepDrift includes an **Explainable AI (XAI)** module that tells secu
 
 ### Setup
 ```bash
-git clone [https://github.com/yourusername/DeepDrift-EDR.git](https://github.com/yourusername/DeepDrift-EDR.git)
+git clone [https://github.com/yashwanthgowdanm/DeepDrift-EDR.git](https://github.com/yashwanthgowdanm/DeepDrift-EDR.git)
 cd DeepDrift-EDR
 pip install -r requirements.txt
